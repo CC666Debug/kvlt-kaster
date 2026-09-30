@@ -369,5 +369,1012 @@
 "id": "deathmetal"
 },
 "id": "0c102a40"
+},
+{
+"name": "# 100 GREATEST HEAVY METAL",
+"group": "Metal Mix",
+"about": "60'S, 60S, 70'S, 70Er, 70S",
+"url": "https://cast1.torontocast.com:4660/stream",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "dc485e4e"
+},
+{
+"name": "0nlineradio METAL",
+"group": "Metal Mix",
+"about": "Death Metal, Hard Rock, Heavy Metal, Metal, Nu Metal",
+"url": "https://0nlineradio.stream42.radiohost.de/0r-metal?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkwODA5NjkwJmQ9ZTJmNWMyMTZjNjQxMjljZjExOWQ",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "f0d9a4c4"
+},
+{
+"name": "4400 Ironcity",
+"group": "Metal Mix",
+"about": "Rock, Metal, Deutsch-Rock, Punk, Alternative",
+"url": "https://4400-ironcity.stream.laut.fm/4400-ironcity?t302=2026-10-01_01-03-24&uuid=58ebae4e-fc0f-33ca-61a5-3dd6614fe895",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "4400-ironcity"
+},
+"id": "aea7249f"
+},
+{
+"name": "Abyss",
+"group": "Metal Mix",
+"about": "Metal, Gothic, EBM, Darkwave, Black Metal",
+"url": "https://abyss.stream.laut.fm/abyss?t302=2026-10-01_01-03-21&uuid=cb0b29de-407f-4665-6512-74667da282d3",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "abyss"
+},
+"id": "f658cb76"
+},
+{
+"name": "AI Melodic Death Metal Radio Station",
+"group": "Metal Mix",
+"about": "Metal",
+"url": "https://a7.asurahosting.com/listen/melodeath.ai_radio_station/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "be64885c"
+},
+{
+"name": "Audimaxx",
+"group": "Metal Mix",
+"about": "Alternative, Black Metal, Death Metal, Easy Listening, Heavy Metal",
+"url": "https://audimaxx.stream.laut.fm/audimaxx?t302=2026-10-01_01-03-22&uuid=7321af88-df34-c0d4-445d-453e15070e53",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "audimaxx"
+},
+"id": "6773c846"
+},
+{
+"name": "Badrock Hard & Heavy",
+"group": "Metal Mix",
+"about": "Death Metal, Heavy Metal, Metal, Punk",
+"url": "https://streams.badrockradio.net/hard-heavy",
+"type": "audio/mpeg",
+"kbps": 320,
+"meta": {
+"k": "icecast",
+"u": "https://streams.badrockradio.net/status-json.xsl",
+"m": "/hard-heavy"
+},
+"id": "485e806c"
+},
+{
+"name": "Ballroom Hamburg",
+"group": "Metal Mix",
+"about": "Heavy Metal, Rock, Rock'n'Roll, Thrash Metal",
+"url": "https://ballroom-hamburg.stream.laut.fm/ballroom-hamburg?t302=2026-10-01_01-03-25&uuid=c4c3ef9b-832d-eace-6556-91d1d3857ddc",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "ballroom-hamburg"
+},
+"id": "5b61c148"
+},
+{
+"name": "Bandung Death Metal Syndicate",
+"group": "Metal Mix",
+"about": "Black Metal, Death Metal, Trash Metal",
+"url": "https://stream-175.surfernetwork.com/t9wdzppre5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0OXdkenBwcmU1enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJRazZzLXFrMlRzYXdsbDh4ZFlYTzhnIiwiaWF0IjoxNzkwODA5Mzg4LCJleHAiOjE3OTA4MDk0NDh9.k7Xnejll5fmSiwr4M1LeWu3J7nY3z-rFdTjQm1zSAkI",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "5231754b"
+},
+{
+"name": "Beatdownx",
+"group": "Metal Mix",
+"about": "Death Metal, Deathcore, Hardcore, Radiobeatdo",
+"url": "https://beatdownx.stream.laut.fm/beatdownx?t302=2026-10-01_01-03-23&uuid=89bbb110-710b-12cd-d2ca-3c5f1ec2a3f7",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "beatdownx"
+},
+"id": "484e50bb"
+},
+{
+"name": "Bergwerk Echo",
+"group": "Metal Mix",
+"about": "Heavy Metal, Rock, Metal, Black Metal, Death Metal",
+"url": "https://bergwerk-echo.stream.laut.fm/bergwerk-echo?t302=2026-10-01_01-03-21&uuid=01bfb830-2846-48e7-91f2-2a3221a5ba5e",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "bergwerk-echo"
+},
+"id": "7e203965"
+},
+{
+"name": "Biggestbeats",
+"group": "Metal Mix",
+"about": "Rock, Metal, Metalcore",
+"url": "https://biggestbeats.stream.laut.fm/biggestbeats?t302=2026-10-01_01-03-23&uuid=a8c7c096-401a-4e6d-1f8d-1aa9dbc17685",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "biggestbeats"
+},
+"id": "48d2fb0d"
+},
+{
+"name": "Black Magic Dwarf",
+"group": "Metal Mix",
+"about": "Hard Rock, Heavy Metal, Metal, Pop, Rock",
+"url": "https://blackmagicdwarf.stream.laut.fm/blackmagicdwarf?t302=2026-10-01_01-03-24&uuid=d2d07f15-9b77-eaa4-5074-0faa67c60416",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "blackmagicdwarf"
+},
+"id": "ae5e3879"
+},
+{
+"name": "Blackmetal",
+"group": "Metal Mix",
+"about": "Black Metal, dazu Doublekick, Black Metal halt",
+"url": "https://blackmetal.stream.laut.fm/blackmetal?t302=2026-10-01_01-03-20&uuid=1a916c44-7af6-634f-badf-e315778bbdb3",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "blackmetal"
+},
+"id": "42b9ac9c"
+},
+{
+"name": "Burnyourears",
+"group": "Metal Mix",
+"about": "Alternative, Crossover, Metal, Rock, Hardcore",
+"url": "https://burnyourears.stream.laut.fm/burnyourears?t302=2026-10-01_01-03-21&uuid=033c70f2-7e0f-250c-4f78-99ccfe6a30a9",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "burnyourears"
+},
+"id": "e564ce3f"
+},
+{
+"name": "ChroniX Radio Metalcore",
+"group": "Metal Mix",
+"about": "Death Metal, Heavy Metal, Industrial, Metalcore, Thrash Metal",
+"url": "http://usa17.fastcast4u.com:5508/stream",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 320,
+"id": "2d3cbe20"
+},
+{
+"name": "Core Mix",
+"group": "Metal Mix",
+"about": "Alternative, Death Metal, Deathcore, Hardcore, Metal",
+"url": "https://core-mix.stream.laut.fm/core-mix?t302=2026-10-01_01-03-23&uuid=397eb275-82dc-eff9-9586-353e8e3e5e2f",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "core-mix"
+},
+"id": "6480c2d4"
+},
+{
+"name": "Covenant",
+"group": "Metal Mix",
+"about": "Death Metal, Metal, Rock, Thrash Metal, No fashion",
+"url": "https://covenant.stream.laut.fm/covenant?t302=2026-10-01_01-03-24&uuid=fb871694-c228-6ad0-03c8-b492170a7515",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "covenant"
+},
+"id": "965ef4e5"
+},
+{
+"name": "Demians Abyss",
+"group": "Metal Mix",
+"about": "Death Metal, Black Metal, Metal, Power Metal, Thrash Metal",
+"url": "https://demiansabyss.stream.laut.fm/demians_abyss?t302=2026-10-01_01-03-21&uuid=08029a7d-1ad1-9bf1-e80a-c7570db7009c",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "demians_abyss"
+},
+"id": "eb745d90"
+},
+{
+"name": "Destroyed",
+"group": "Metal Mix",
+"about": "Rock, IllerRadios, Hard Rock, Hardcore, Thrash Metal",
+"url": "https://destroyed.stream.laut.fm/destroyed?t302=2026-10-01_01-03-25&uuid=467b72e3-673b-23a6-d274-20a996da3b77",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "destroyed"
+},
+"id": "aefbd059"
+},
+{
+"name": "Diabolicmetalbox",
+"group": "Metal Mix",
+"about": "Rock, Metal, Thrash Metal, Death Metal, Black Metal",
+"url": "https://diabolicmetalbox.stream.laut.fm/diabolicmetalbox?t302=2026-10-01_01-03-22&uuid=45454ebd-3f34-0b10-72e6-3bfea7425b47",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "diabolicmetalbox"
+},
+"id": "9df710cd"
+},
+{
+"name": "Durchgehört",
+"group": "Metal Mix",
+"about": "Mittelalter, Folk, Alternative Rock, Metal, Progressive Rock",
+"url": "https://durchgehoert.stream.laut.fm/durchgehoert?t302=2026-10-01_01-03-24&uuid=5c8eae70-cd60-ce10-c00d-6ab16e9a99b0",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "durchgehoert"
+},
+"id": "7910f164"
+},
+{
+"name": "Durst Termine",
+"group": "Metal Mix",
+"about": "Pop-Punk, Punk, Hardcore, Emo, Metal",
+"url": "https://durst-termine.stream.laut.fm/durst-termine?t302=2026-10-01_01-03-25&uuid=fccc25d8-ac7e-d06b-1dc0-93a8dc2f6006",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "durst-termine"
+},
+"id": "178fdc02"
+},
+{
+"name": "Hotmix Metal",
+"group": "Metal Mix",
+"about": "Black Metal, Death Metal, Heavy Metal, Metal, Metalcore",
+"url": "https://streaming.hotmixradio.com/geoblock.mp3",
+"type": "audio/mpeg",
+"id": "7cabdfff"
+},
+{
+"name": "Kkr Radio",
+"group": "Metal Mix",
+"about": "Metal, Death Metal, Underground, Heavy Metal",
+"url": "https://kkr-radio.stream.laut.fm/kkr-radio?t302=2026-10-01_01-03-25&uuid=3ecb6b59-8714-a13c-7a1e-e1e30d3821ac",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "kkr-radio"
+},
+"id": "035c9c67"
+},
+{
+"name": "La Grosse Radio METAL",
+"group": "Metal Mix",
+"about": "Black Metal, Death Metal, Doom Metal, Heavy Metal, Metal",
+"url": "https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "e9973333"
+},
+{
+"name": "Laut.FM Bang! Radio",
+"group": "Metal Mix",
+"about": "Alternative, Metal, Rock, Alternative Rock, Classic Rock",
+"url": "https://bang.stream.laut.fm/bang?t302=2026-10-01_01-03-09&uuid=6cdfdb35-f2b1-51b5-0cb5-4c7a7030bba1",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "bang"
+},
+"id": "7a7d8f23"
+},
+{
+"name": "Melodic Death Metal",
+"group": "Metal Mix",
+"about": "Metal",
+"url": "http://ec2.yesstreaming.net:5170/stream",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "icecast",
+"u": "http://ec2.yesstreaming.net:5170/status-json.xsl",
+"m": "/stream"
+},
+"id": "01864d38"
+},
+{
+"name": "Metal 4 Life",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Death Metal, Grunge, Thrash Metal",
+"url": "https://metal4life.stream.laut.fm/metal4life?t302=2026-10-01_01-03-25&uuid=f834442f-2265-8713-ec99-1b2b4491ae20",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal4life"
+},
+"id": "1eb21339"
+},
+{
+"name": "Metal 4 Nrw Radio",
+"group": "Metal Mix",
+"about": "Rock, Metal, Metalcore, Heavy Metal, Thrash Metal",
+"url": "https://metal4nrw-radio.stream.laut.fm/metal4nrw-radio?t302=2026-10-01_01-03-24&uuid=d7cc655e-4d8a-999f-8e7e-04fb4146a451",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal4nrw-radio"
+},
+"id": "6246f806"
+},
+{
+"name": "Metal FM Com",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Power Metal, Thrash Metal, Death Metal",
+"url": "https://metal-fm-com.stream.laut.fm/metal-fm-com?t302=2026-10-01_01-03-20&uuid=4194ee65-30fe-b040-e3b3-27961f7edc46",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal-fm-com"
+},
+"id": "42eeaa2a"
+},
+{
+"name": "Metal Hammer",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Rock, Black Metal, Classic Rock",
+"url": "https://metal-hammer.stream.laut.fm/metal-hammer?t302=2026-10-01_01-03-20&uuid=fecc3771-4c82-16fd-91ce-5f0fb20fa46f",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal-hammer"
+},
+"id": "6b6c8827"
+},
+{
+"name": "Metal Oldies Rock",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Industrial, Gothic, Death Metal",
+"url": "https://metal-oldies-rock.stream.laut.fm/metal-oldies-rock?t302=2026-10-01_01-03-20&uuid=1a12e679-4ca4-5b1c-28c4-1f33fecda209",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal-oldies-rock"
+},
+"id": "c9abbc40"
+},
+{
+"name": "Metal Thunder",
+"group": "Metal Mix",
+"about": "Heavy Metal, Death Metal, Black Metal, Power Metal, Thrash Metal",
+"url": "https://metal-thunder.stream.laut.fm/metal-thunder?t302=2026-10-01_01-03-23&uuid=f27259e9-6ad9-a4b5-be72-4edc2dbdc782",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal-thunder"
+},
+"id": "f5676341"
+},
+{
+"name": "Metal Up Your Ass",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Hard Rock, Power Metal, Death Metal",
+"url": "https://metal-up-your-ass.stream.laut.fm/metal-up-your-ass?t302=2026-10-01_01-03-24&uuid=c4f587f4-80e3-c73e-0cad-aa59c6212b9e",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal-up-your-ass"
+},
+"id": "9d0ef3a1"
+},
+{
+"name": "Metal Watson Radio",
+"group": "Metal Mix",
+"about": "Metalcore, Glam Metal, Death Metal, Power Metal, Punk",
+"url": "https://metalwatsonradio.stream.laut.fm/metal_watson_radio?t302=2026-10-01_01-03-25&uuid=5bd05403-f6ce-1b16-f416-299dbcde6b1a",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metal_watson_radio"
+},
+"id": "db76e9f3"
+},
+{
+"name": "METAL ZONE",
+"group": "Metal Mix",
+"about": "Death Metal, Heavy Metal, Metal, Metalcore, Music",
+"url": "https://neos.win:48282/stream",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "icecast",
+"u": "https://neos.win:48282/status-json.xsl",
+"m": "/stream"
+},
+"id": "f59d7cf6"
+},
+{
+"name": "Metal-Radio",
+"group": "Metal Mix",
+"about": "Metalcore, Melodic Death Metal, Thrash Metal, u.a. Metallica, Iron Maiden",
+"url": "https://metalradio.stream.laut.fm/metalradio?t302=2026-10-01_01-03-23&uuid=a9e85d34-8e1c-20b3-eefa-9755e1bde9bd",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalradio"
+},
+"id": "8106ea1e"
+},
+{
+"name": "Metalcaravan",
+"group": "Metal Mix",
+"about": "Metal, Thrash Metal, Death Metal, Heavy Metal",
+"url": "https://metalcaravan.stream.laut.fm/metalcaravan?t302=2026-10-01_01-03-23&uuid=005fbb95-383c-cb93-5b3e-1bc7c48beb16",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalcaravan"
+},
+"id": "ac4282a7"
+},
+{
+"name": "Metalcrash-Radio",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Power Metal, Gothic, Gothic Rock",
+"url": "https://metalcrashradio.stream.laut.fm/metalcrashradio?t302=2026-10-01_01-03-25&uuid=c1b94858-587f-20ef-a3e3-f83dfbcef04d",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalcrashradio"
+},
+"id": "2f2b4f43"
+},
+{
+"name": "Metalgeneration",
+"group": "Metal Mix",
+"about": "Heavy Metal, Hard Rock, Metal, Death Metal, Metalcore",
+"url": "https://metalgeneration.stream.laut.fm/metalgeneration?t302=2026-10-01_01-03-24&uuid=0cc6e408-2caa-43d5-f822-6c123d1f60d8",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalgeneration"
+},
+"id": "5762edf7"
+},
+{
+"name": "Metalhead",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Trash Metal, Death Metal, Death Doom Metal",
+"url": "https://metalhead.stream.laut.fm/metalhead?t302=2026-10-01_01-03-22&uuid=2a79db92-6a7d-dd0a-cb77-71d6f9b0b0dd",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalhead"
+},
+"id": "d3abf4c8"
+},
+{
+"name": "Metality",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Power Metal, Thrash Metal, Death Metal",
+"url": "https://metality.stream.laut.fm/metality?t302=2026-10-01_01-03-22&uuid=f5bb69a5-e023-fd6d-7253-93a9ba4411ba",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metality"
+},
+"id": "de8bb860"
+},
+{
+"name": "Metalrules",
+"group": "Metal Mix",
+"about": "Heavy Metal, Metalcore, Thrash Metal, Metal, Power Metal",
+"url": "https://metalrules.stream.laut.fm/metalrules?t302=2026-10-01_01-03-24&uuid=fa971067-4bc8-b500-f25d-2aca33c3a8c2",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalrules"
+},
+"id": "75398578"
+},
+{
+"name": "Metalstation",
+"group": "Metal Mix",
+"about": "Black Metal, Hard Rock, Heavy Metal, Metal, Rock",
+"url": "https://metalstation.stream.laut.fm/metalstation?t302=2026-10-01_01-03-21&uuid=506c95f0-748c-b09a-2a89-f0a8bf1923c7",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalstation"
+},
+"id": "fa442513"
+},
+{
+"name": "Metaltime",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Black Metal, Death Metal, Metalcore",
+"url": "https://metaltime.stream.laut.fm/metaltime?t302=2026-10-01_01-03-22&uuid=3653c52d-0d3c-e013-c208-68bcd7992e17",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metaltime"
+},
+"id": "0afb3ab8"
+},
+{
+"name": "Metaltv Radio",
+"group": "Metal Mix",
+"about": "Metal, Black Metal, Death Metal, Deathcore, Heavy Metal",
+"url": "https://metaltvradio.stream.laut.fm/metaltvradio?t302=2026-10-01_01-03-22&uuid=7f91ad3b-c8ef-1e47-d717-a6c7aaabf30b",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metaltvradio"
+},
+"id": "fc809d7d"
+},
+{
+"name": "Mma-Radio",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Heavy Metal, Rock, Gothic Rock",
+"url": "https://mma-radio.stream.laut.fm/mma-radio?t302=2026-10-01_01-03-25&uuid=878b7eef-03c8-cf07-c378-cd91405ec460",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "mma-radio"
+},
+"id": "eebca6b0"
+},
+{
+"name": "Motorbreath",
+"group": "Metal Mix",
+"about": "Death Metal, Hardcore, Heavy Metal, Metal, Metalcore",
+"url": "https://motorbreath.stream.laut.fm/motorbreath?t302=2026-10-01_01-03-20&uuid=5fe436eb-8bd7-2b97-cf85-d4ea17fc96f6",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "motorbreath"
+},
+"id": "30c8cfb3"
+},
+{
+"name": "Nachtfalter",
+"group": "Metal Mix",
+"about": "Alternative Rock, Black Metal, Blues, Classic Rock, Death Metal",
+"url": "https://nachtfalter.stream.laut.fm/nachtfalter?t302=2026-10-01_01-03-21&uuid=ec05b71a-716d-7f7b-dbc5-e8808936ea9f",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "nachtfalter"
+},
+"id": "8ea28ca7"
+},
+{
+"name": "Nar Metal",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Death Metal, Black Metal, Heavy Metal",
+"url": "https://nar-metal.stream.laut.fm/nar-metal?t302=2026-10-01_01-03-21&uuid=92f256e1-051c-4447-f888-3c0901b1b783",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "nar-metal"
+},
+"id": "0f790986"
+},
+{
+"name": "Neue Burg Radio",
+"group": "Metal Mix",
+"about": "Alternative, Pop, Punk, Rock, Black Metal",
+"url": "https://neue-burg-radio.stream.laut.fm/neue-burg-radio?t302=2026-10-01_01-03-23&uuid=b396e41b-e1d2-6873-7b9d-8e8d36d5d07d",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "neue-burg-radio"
+},
+"id": "5cefb33a"
+},
+{
+"name": "Olirocks",
+"group": "Metal Mix",
+"about": "Heavy Metal, Hard Rock, Punk, Classic Rock, Thrash Metal",
+"url": "https://olirocks.stream.laut.fm/olirocks?t302=2026-10-01_01-03-25&uuid=5287d576-ac54-215d-8053-5241d5988235",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "olirocks"
+},
+"id": "b8b485cd"
+},
+{
+"name": "Ostmetal",
+"group": "Metal Mix",
+"about": "Metal, Hard Rock, Heavy Metal, Death Metal",
+"url": "https://ostmetal.stream.laut.fm/ostmetal?t302=2026-10-01_01-03-23&uuid=f92ee40a-c200-a742-3546-065bea21ed24",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "ostmetal"
+},
+"id": "152eee75"
+},
+{
+"name": "Powerplant Radio",
+"group": "Metal Mix",
+"about": "Metal, Rock, Hard Rock, Heavy Metal, Black Metal",
+"url": "https://powerplantradio.stream.laut.fm/powerplantradio?t302=2026-10-01_01-03-22&uuid=52531746-0cc0-bbb9-3f40-b4b2b8e2d2fe",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "powerplantradio"
+},
+"id": "677f4eab"
+},
+{
+"name": "Radio M",
+"group": "Metal Mix",
+"about": "Metalcore, Metal, Rock'n'Roll, Rock, Black Metal",
+"url": "https://radio-m.stream.laut.fm/radio-m?t302=2026-10-01_01-03-23&uuid=23d36192-ec3b-7660-7b14-029a2a46e2c6",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "radio-m"
+},
+"id": "ee964aa1"
+},
+{
+"name": "Radio Metalkultur",
+"group": "Metal Mix",
+"about": "Female Fronted Metal, Female Fronted Rock, Death Metal, Black Metal, Heavy Metal",
+"url": "https://radio-metalkultur.stream.laut.fm/radio-metalkultur?t302=2026-10-01_01-03-22&uuid=f49959e0-57b3-98a1-2b7b-dd85089ecfe5",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "radio-metalkultur"
+},
+"id": "7c305aad"
+},
+{
+"name": "Radio-Schwarzeseele",
+"group": "Metal Mix",
+"about": "Industrial, EBM, Punk und Alternati",
+"url": "https://radio-schwarzeseele.stream.laut.fm/radio-schwarzeseele?t302=2026-10-01_01-03-23&uuid=29caf08f-48b6-3a9e-416a-c92b34ad987d",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "radio-schwarzeseele"
+},
+"id": "816e5172"
+},
+{
+"name": "Radiometal",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Death Metal, Black Metal, Power Metal",
+"url": "https://radiometal.stream.laut.fm/radiometal?t302=2026-10-01_01-03-22&uuid=7a5fbea9-ac1b-c670-c297-f46d7f17a9fe",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "radiometal"
+},
+"id": "81d3536b"
+},
+{
+"name": "Redstar-Radio",
+"group": "Metal Mix",
+"about": "Metal, Death Metal Nu-Metal",
+"url": "https://redstarradio.stream.laut.fm/redstarradio?t302=2026-10-01_01-03-23&uuid=e69c87c3-97d3-11d7-4760-c8efd146e247",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "redstarradio"
+},
+"id": "7b3ed72c"
+},
+{
+"name": "Rock Antenne Heavy Metal",
+"group": "Metal Mix",
+"about": "Black Metal, Death Metal, Heavy Metal, Metal, Symphonic Metal",
+"url": "https://s1-webradio.rockantenne.de/heavy-metal/stream/aacp",
+"type": "audio/aac",
+"id": "deb187b6"
+},
+{
+"name": "Rock City",
+"group": "Metal Mix",
+"about": "Classic Rock, Rock, Metal, Metalcore, Death Metal Rock",
+"url": "https://rock-city.stream.laut.fm/rock-city?t302=2026-10-01_01-03-24&uuid=96ccae72-c6f2-e5c5-e013-5d53b0c71358",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rock-city"
+},
+"id": "4054472d"
+},
+{
+"name": "Rock FM 105.5",
+"group": "Metal Mix",
+"about": "Classic Rock, Death Metal, Heavy Metal, Rock",
+"url": "https://securestream.us/radio/8050/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 256,
+"id": "dede3e5e"
+},
+{
+"name": "Rock Metal More",
+"group": "Metal Mix",
+"about": "Metal, Rap, Death Metal, Rock, Trap  Wir sind Rock",
+"url": "https://rock-metal-more.stream.laut.fm/rock-metal-more?t302=2026-10-01_01-03-24&uuid=27188614-407d-d898-e65a-ff9fc8761db1",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rock-metal-more"
+},
+"id": "76c4f931"
+},
+{
+"name": "Rock-Radio",
+"group": "Metal Mix",
+"about": "Alternative, Metal, Punk, Rock, Classic Rock",
+"url": "https://rockradio.stream.laut.fm/rockradio?t302=2026-10-01_01-03-24&uuid=c3fde29a-38f2-c2fc-1b3d-b765496398f2",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rockradio"
+},
+"id": "384da51c"
+},
+{
+"name": "Rockamringblog-Radio",
+"group": "Metal Mix",
+"about": "Rock, Metal, Metalcore, Punk, Alternative",
+"url": "https://rockamringblogradio.stream.laut.fm/rockamringblogradio?t302=2026-10-01_01-03-24&uuid=c44bd98e-ee29-ab9f-f1cb-c809b3b37abd",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rockamringblogradio"
+},
+"id": "f3285445"
+},
+{
+"name": "Rocknmetal De",
+"group": "Metal Mix",
+"about": "Heavy Metal, Classic Rock, Gothic, Industrial, Folk",
+"url": "https://rocknmetalde.stream.laut.fm/rocknmetal_de?t302=2026-10-01_01-03-20&uuid=c382ce68-fc0e-da85-a848-268ed7f88de9",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rocknmetal_de"
+},
+"id": "6e8ee7b5"
+},
+{
+"name": "Rockstation",
+"group": "Metal Mix",
+"about": "Rock, Classic Rock, Heavy Metal, Gothic Rock, Pagan Metal",
+"url": "https://rockstation.stream.laut.fm/rockstation?t302=2026-10-01_01-03-25&uuid=7f86ec5e-7094-b797-e768-8de83c6a6ad5",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rockstation"
+},
+"id": "a5e2fa01"
+},
+{
+"name": "Rudixy",
+"group": "Metal Mix",
+"about": "Metal, Rock, Heavy Metal, Death Metal",
+"url": "https://rudixy.stream.laut.fm/rudixy?t302=2026-10-01_01-03-24&uuid=aaff5b38-a057-5be4-4ba6-3b5e6e52134b",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "rudixy"
+},
+"id": "4e4602d6"
+},
+{
+"name": "Sockenschuss X",
+"group": "Metal Mix",
+"about": "Metal, Rock, Epic Hybrid Music, Klassik, Gaming",
+"url": "https://sockenschuss-x.stream.laut.fm/sockenschuss-x?t302=2026-10-01_01-03-24&uuid=c5fbaf14-088a-1417-53f4-3887156a70ca",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "sockenschuss-x"
+},
+"id": "87acea03"
+},
+{
+"name": "Sprengies World FM",
+"group": "Metal Mix",
+"about": "Metal, Heavy Metal, Hard Rock, Power Metal, Speed Metal",
+"url": "https://sprengiesworldfm.stream.laut.fm/sprengiesworldfm?t302=2026-10-01_01-03-22&uuid=c6402863-2f14-ea21-2f18-f54dc97a27f4",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "sprengiesworldfm"
+},
+"id": "c0ee7490"
+},
+{
+"name": "Steelsound Radio",
+"group": "Metal Mix",
+"about": "Heavy Metal, Rock, Rock'n'Roll, Hard Rock, Death Metal",
+"url": "https://steelsoundradio.stream.laut.fm/steelsound_radio?t302=2026-10-01_01-03-25&uuid=4ef27d88-474e-f53c-18ad-5905f8c76490",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "steelsound_radio"
+},
+"id": "f2b9cbbf"
+},
+{
+"name": "Streetfighter",
+"group": "Metal Mix",
+"about": "Heavy Metal, Metal, Rock, Deathmetal",
+"url": "https://streetfighter.stream.laut.fm/streetfighter?t302=2026-10-01_01-03-23&uuid=1e299ac9-d1df-b0a6-fc04-43f735a5f3fe",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "streetfighter"
+},
+"id": "3e030005"
+},
+{
+"name": "Strohs Rock Station",
+"group": "Metal Mix",
+"about": "Rock, Hard Rock, Heavy Metal, Power Metal, Metal",
+"url": "https://strohs-rock-station.stream.laut.fm/strohs-rock-station?t302=2026-10-01_01-03-23&uuid=84741790-d8b8-e0fe-9622-bd66ffea5b48",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "strohs-rock-station"
+},
+"id": "74e3226d"
+},
+{
+"name": "Thrash or die",
+"group": "Metal Mix",
+"about": "Thrash Metal, Heavy Metal, Power Metal, Hard Rock, 90`S And Currently 24",
+"url": "https://thrashordie.stream.laut.fm/thrashordie?t302=2026-10-01_01-03-20&uuid=aea6ab71-9a4b-e19c-dba3-170c532cd187",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "thrashordie"
+},
+"id": "77269bfc"
+},
+{
+"name": "Thrashking",
+"group": "Metal Mix",
+"about": "Death Metal, Heavy Metal, Black Metal, Hardcore, Metalcore",
+"url": "https://thrashking.stream.laut.fm/thrashking?t302=2026-10-01_01-03-20&uuid=b2d17d44-0b7e-f483-d488-b1b902d43087",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "thrashking"
+},
+"id": "f659de8a"
+},
+{
+"name": "Thrashking Radio",
+"group": "Metal Mix",
+"about": "Death Metal, Thrash Metal",
+"url": "https://thrashking.stream.laut.fm/thrashking",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "thrashking"
+},
+"id": "37f43560"
+},
+{
+"name": "Untot",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Heavy Metal, Rock, Rock'n'Roll",
+"url": "https://untot.stream.laut.fm/untot?t302=2026-10-01_01-03-25&uuid=f8c52d56-6bdf-6781-bf03-bc686a42447e",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "untot"
+},
+"id": "6cf487f0"
+},
+{
+"name": "Wacken",
+"group": "Metal Mix",
+"about": "Metal, Metalcore, Death Metal, Black Metal, Heavy Metal",
+"url": "https://wacken.stream.laut.fm/wacken?t302=2026-10-01_01-03-23&uuid=45cb8918-51ca-4072-2fcc-80b60464708f",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "wacken"
+},
+"id": "fbde8601"
+},
+{
+"name": "Wastewatermusic",
+"group": "Metal Mix",
+"about": "Metal, Death Metal, Doom, Doom Metal, Hardrock",
+"url": "https://wastewatermusic.stream.laut.fm/wastewatermusic?t302=2026-10-01_01-03-21&uuid=f5410fe6-992b-85e9-6a17-47642097734d",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "wastewatermusic"
+},
+"id": "7888056f"
 }
 ]
