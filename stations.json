@@ -1,0 +1,373 @@
+[
+{
+"name": "Black Metal Radio",
+"group": "Pure Black Metal",
+"about": "Black metal around the clock",
+"url": "https://live.streamingradiosmr.com/8680/stream",
+"type": "audio/mpeg",
+"kbps": 320,
+"id": "3e75353d"
+},
+{
+"name": "Blackmetal (laut.fm)",
+"group": "Pure Black Metal",
+"about": "100% black metal, heavy on atmospheric",
+"url": "https://blackmetal.stream.laut.fm/blackmetal?ref=radiodns",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "blackmetal"
+},
+"id": "6fb9bc88"
+},
+{
+"name": "Svartkrog Black Metal Radio",
+"group": "Pure Black Metal",
+"about": "From cold Norwegian classics to modern atmospheric and raw black metal",
+"url": "https://svartkrog.stream.laut.fm/svartkrog",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "svartkrog"
+},
+"id": "9b712c5e"
+},
+{
+"name": "True Black Metal Radio",
+"group": "Pure Black Metal",
+"about": "True black metal, broadcast from Kharkiv, Ukraine",
+"url": "https://trueblackmetalradio.com:8000/radio",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "0f417db0"
+},
+{
+"name": "Radio Ritus",
+"group": "Pure Black Metal",
+"about": "\"Incipit Chaos\": black metal only",
+"url": "https://ritus.stream.laut.fm/ritus?t302=2026-10-01_01-03-08&uuid=c2d93563-c7ab-d5a1-3223-87bbfab8cba9",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "ritus"
+},
+"id": "21500ab4"
+},
+{
+"name": "Moshhead Blackmetal",
+"group": "Pure Black Metal",
+"about": "Black metal channel of Moshhead.org",
+"url": "https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "moshhead-blackmetal"
+},
+"id": "ac8df834"
+},
+{
+"name": "Satanic Radio",
+"group": "Pure Black Metal",
+"about": "\"Where darkness becomes sound\": occult and satanic black metal",
+"url": "https://live.streamingradiosmr.com/8598/stream",
+"type": "audio/mpeg",
+"kbps": 320,
+"id": "ca96de1e"
+},
+{
+"name": "Demonology",
+"group": "Pure Black Metal",
+"about": "Black metal with DSBM, Viking and death metal",
+"url": "https://demonology.stream.laut.fm/demonology?t302=2026-10-01_01-03-21&uuid=3da4502b-a5fd-2d97-bb2e-47b6b4cfd92d",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "demonology"
+},
+"id": "1f7743f7"
+},
+{
+"name": "Vault Of Darkness",
+"group": "Pure Black Metal",
+"about": "Orthodox black metal, death, doom and sludge",
+"url": "https://vaultofdarkness.stream.laut.fm/vault_of_darkness?t302=2026-10-01_01-03-23&uuid=6e08c6c1-552b-88ec-a8c9-36bfd63520df",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "vault_of_darkness"
+},
+"id": "b8d5c4c1"
+},
+{
+"name": "666 Forgotten Castle",
+"group": "Pure Black Metal",
+"about": "Black and death metal",
+"url": "https://stream-176.surfernetwork.com/j9tx7izezf4vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqOXR4N2l6ZXpmNHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJPWGNkNmo4X1NBaW95QzNIYnMyTGRRIiwiaWF0IjoxNzkwODA5Mzg4LCJleHAiOjE3OTA4MDk0NDh9.e9Abv7hL2hWmx-MW0akl1-GcxY6uvXYK_lDeMt-3mGA",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "61e9e7b2"
+},
+{
+"name": "DJ 666 Geordieblackcore",
+"group": "Pure Black Metal",
+"about": "Black, pagan black, crust and grind",
+"url": "https://dj666geordieblackcore.stream.laut.fm/dj666geordieblackcore?t302=2026-10-01_01-03-20&uuid=52102952-2d32-5b0a-6455-afacc9dcc506",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "dj666geordieblackcore"
+},
+"id": "d9463048"
+},
+{
+"name": "Death.FM",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "A brutal and beautiful blend of black, death, gore and grind",
+"url": "https://death.fm/live",
+"type": "audio/aac",
+"kbps": 192,
+"id": "1b10b308"
+},
+{
+"name": "ISKC Extreme Metal",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Extreme metal from the Netherlands",
+"url": "https://443-1.autopo.st/79/ExtremeMetal",
+"type": "audio/mpeg",
+"kbps": 320,
+"id": "aaec21eb"
+},
+{
+"name": "Radio Highway Pirates: Extreme Metal",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Thrash, death, black and extreme metal",
+"url": "https://rdst.win:59870/autodj",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "icecast",
+"u": "https://rdst.win:59870/status-json.xsl",
+"m": "/autodj"
+},
+"id": "904f7b63"
+},
+{
+"name": "The Pit (NTS)",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Black and thrash metal from NTS Radio",
+"url": "https://audio-edge-qse4n.yyz.g.radiomast.io/d0877da6-0037-4f67-86d7-3ecbc86e362c",
+"type": "audio/mpeg",
+"kbps": 256,
+"id": "8e875127"
+},
+{
+"name": "Metalblast FM",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Death, black, grind, doom and thrash",
+"url": "https://metalblastfm.stream.laut.fm/metalblastfm?t302=2026-10-01_01-03-21&uuid=b74a3bbd-66c7-b06c-0f93-35eee219bb05",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalblastfm"
+},
+"id": "09f015d5"
+},
+{
+"name": "Wild Phil Metal Command",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "From heavy to grind, lots of black metal",
+"url": "https://wildphil.stream.laut.fm/wild_phil?t302=2026-10-01_01-03-22&uuid=ff32d266-41a6-7e96-3238-90943532aae4",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "wild_phil"
+},
+"id": "d4e3c84f"
+},
+{
+"name": "Radio Diabolus",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Black, death, grind and heavy metal",
+"url": "https://dunkelhost.com:7800/stream",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "90b0dd0c"
+},
+{
+"name": "Endzeit FM",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Black, death, thrash and symphonic metal",
+"url": "https://endzeitfm.stream.laut.fm/endzeitfm?t302=2026-10-01_01-03-08&uuid=a21815e2-a0fc-b2e5-05fb-dd76653278c9",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "endzeitfm"
+},
+"id": "963aebc2"
+},
+{
+"name": "SomaFM Metal Detector",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Black, doom, sludge and stoner metal",
+"url": "https://ice2.somafm.com/metal-128-aac",
+"type": "audio/aac",
+"kbps": 128,
+"meta": {
+"k": "soma",
+"id": "metal"
+},
+"id": "2ba6e12f"
+},
+{
+"name": "Pagan Metal Radio",
+"group": "Pagan, Viking & Folk Black Metal",
+"about": "Pagan metal from Madrid",
+"url": "http://s1.streaming10.com:9000/stream",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "1ac35133"
+},
+{
+"name": "Metalmaster Alf",
+"group": "Pagan, Viking & Folk Black Metal",
+"about": "Viking, pagan and medieval metal",
+"url": "https://metalmaster-alf.stream.laut.fm/metalmaster-alf?t302=2026-10-01_01-03-25&uuid=b287fe52-4357-a6a5-af07-23a49c6ef590",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "metalmaster-alf"
+},
+"id": "5a65a4bd"
+},
+{
+"name": "Radio Fonlord",
+"group": "Pagan, Viking & Folk Black Metal",
+"about": "Czech folk metal and pagan black metal",
+"url": "https://a5.asurahosting.com:6530/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "32bd4162"
+},
+{
+"name": "The Voice Of Doom",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Doom, death and gothic metal",
+"url": "https://streaming.galaxywebsolutions.com:9046/stream",
+"type": "audio/aac",
+"kbps": 320,
+"meta": {
+"k": "icecast",
+"u": "https://streaming.galaxywebsolutions.com:9046/status-json.xsl",
+"m": "/stream"
+},
+"id": "ee14f192"
+},
+{
+"name": "Hand of Doom Radio",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Doom metal from Australia",
+"url": "http://158.69.114.190:8042/stream/;",
+"insecure": true,
+"type": "audio/mpeg",
+"kbps": 64,
+"id": "35893cdf"
+},
+{
+"name": "Sludge 427",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Sludge, doom, drone and black metal",
+"url": "https://sludge-427.stream.laut.fm/sludge-427?t302=2026-10-01_01-03-23&uuid=5bf59ef8-ddfc-a11b-05d3-59f09db25195",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "sludge-427"
+},
+"id": "3deaf859"
+},
+{
+"name": "Ad Infinitum",
+"group": "Avant-garde & Ambient Black",
+"about": "Experimental black metal and dark ambient",
+"url": "https://adinfinitum.stream.laut.fm/ad_infinitum?t302=2026-10-01_01-03-08&uuid=b2f3aa9f-6012-423b-983d-172e26025ace",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "ad_infinitum"
+},
+"id": "98a6a6e3"
+},
+{
+"name": "Nonpop",
+"group": "Avant-garde & Ambient Black",
+"about": "Avant-garde: black metal, neofolk, industrial and dark ambient",
+"url": "https://nonpop.stream.laut.fm/nonpop?t302=2026-10-01_01-03-20&uuid=f6053f1d-d9db-d0cc-ecaa-c22571f11412",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "nonpop"
+},
+"id": "8bd44e9b"
+},
+{
+"name": "SomaFM Doomed",
+"group": "Avant-garde & Ambient Black",
+"about": "Dark ambient and industrial, the soundtrack black metal grew from",
+"url": "https://ice2.somafm.com/doomed-128-mp3",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "soma",
+"id": "doomed"
+},
+"id": "059ef704"
+},
+{
+"name": "RADIO BOB! Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Death metal, some blackened",
+"url": "https://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857?sABC=6noq952q%230%23po996p107976oo43478npsqs8n19o035%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1790809389",
+"type": "audio/mpeg",
+"id": "a4856235"
+},
+{
+"name": "OSDM Radio",
+"group": "Death Metal Neighbours",
+"about": "'80s and '90s old-school death metal",
+"url": "https://www.tuneintoradio1.com:8060/radio.flac",
+"type": "audio/ogg",
+"kbps": 128,
+"meta": {
+"k": "azura",
+"u": "https://www.tuneintoradio1.com/api/nowplaying_static/supposed_to_rot_radio.json"
+},
+"id": "48c234b1"
+},
+{
+"name": "Deathmetal (Flatlines)",
+"group": "Death Metal Neighbours",
+"about": "Death metal",
+"url": "https://deathmetal.stream.laut.fm/deathmetal?t302=2026-10-01_01-03-24&uuid=4547f08b-d941-9893-6e28-daf0985ac0be",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "deathmetal"
+},
+"id": "0c102a40"
+}
+]
