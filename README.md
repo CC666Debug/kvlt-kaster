@@ -8,7 +8,7 @@ Sister app to [🎃 Halloween Caster](https://cc666debug.github.io/halloween-cas
 
 ## What it does
 
-- **112 stations**, every one tested: Svartkrog, True Black Metal Radio, Ritus, Satanic Radio, Death.FM, The Pit (NTS) and more, plus a 🤘 Metal Mix of general metal stations.
+- **119 stations**, every one tested: Svartkrog, True Black Metal Radio, Ritus, Satanic Radio, Death.FM, The Pit (NTS), Radio Caprice's black metal channels and more, plus a 🤘 Metal Mix of general metal stations.
 - **Moon phase and the next unholy date**: Friday the 13th, Walpurgisnacht, 6/6 and Samhain.
 - **Song names** on stations marked ♪, on screen and on your lock screen.
 - **Search, genre filters, sorting, shuffle and favorites.**

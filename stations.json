@@ -1376,5 +1376,70 @@
 "id": "wastewatermusic"
 },
 "id": "7888056f"
+},
+{
+"id": "07be16a5",
+"name": "Radio Caprice - Black Metal",
+"group": "Pure Black Metal",
+"about": "Radio Caprice's black metal channel",
+"url": "http://79.120.77.11:8002/blackmetal",
+"type": "audio/aac",
+"insecure": true
+},
+{
+"id": "62c721a8",
+"name": "Radio Caprice - Depressive Black Metal",
+"group": "Pure Black Metal",
+"about": "Depressive and suicidal black metal (DSBM)",
+"url": "http://79.111.119.111:8002/dsbm",
+"type": "audio/aac",
+"insecure": true
+},
+{
+"id": "88236a59",
+"name": "Almost Hell Radio",
+"group": "Pure Black Metal",
+"about": "Black metal",
+"url": "https://almosthellradio.duckdns.org/listen/almost_hell_radio/radio.mp3",
+"type": "audio/mpeg"
+},
+{
+"id": "d3f10e3f",
+"name": "Radio Caprice - Black / Blackened Doom Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Black metal and blackened doom",
+"url": "http://79.120.77.11:8002/blackdoom",
+"type": "audio/aac",
+"insecure": true
+},
+{
+"id": "97ad049c",
+"name": "Shamanic Tunes",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Doom and stoner: Electric Wizard and kin",
+"url": "https://shamanictunes.stream.laut.fm/shamanic_tunes",
+"type": "audio/mpeg",
+"meta": {
+"k": "laut",
+"id": "shamanictunes"
+}
+},
+{
+"id": "6f2c687a",
+"name": "RadCap Post-Black & Blackgaze",
+"group": "Avant-garde & Ambient Black",
+"about": "Progressive black, post-black and blackgaze",
+"url": "http://79.111.14.76:8000/postblack",
+"type": "audio/aac",
+"insecure": true
+},
+{
+"id": "c27893db",
+"name": "Radio Caprice - Folk Black Metal",
+"group": "Pagan, Viking & Folk Black Metal",
+"about": "Folk black metal",
+"url": "http://79.120.12.130:8002/folkblackmet",
+"type": "audio/aac",
+"insecure": true
 }
 ]
