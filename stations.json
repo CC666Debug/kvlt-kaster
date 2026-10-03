@@ -1478,5 +1478,465 @@
 "type": "audio/mpeg",
 "kbps": 192,
 "id": "2b0711c1"
+},
+{
+"name": "Radio Caprice - Symphonic Black Metal",
+"group": "Pure Black Metal",
+"about": "Radio Caprice: symphonic black metal",
+"url": "http://79.111.119.111:8000/symphonicblackmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "ad091826"
+},
+{
+"name": "Radio Caprice - Black Death Metal",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Radio Caprice: black death metal",
+"url": "http://79.111.14.76:8004/blackdeath",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "72d613c1"
+},
+{
+"name": "Radio Caprice - Thrash Black Metal",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Radio Caprice: thrash black metal",
+"url": "http://213.141.131.10:8004/thrashblack",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "d080c3de"
+},
+{
+"name": "Radio Caprice - Funeral Doom Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Radio Caprice: funeral doom metal",
+"url": "http://79.120.77.11:8000/funeraldoom",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "d2597365"
+},
+{
+"name": "Radio Caprice - Death Doom Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Radio Caprice: death doom metal",
+"url": "http://79.120.39.202:9007/",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "4270bf0b"
+},
+{
+"name": "Radio Caprice - Atmospheric Doom Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Radio Caprice: athmospheric doom metal",
+"url": "http://213.141.131.10:8002/atmosphericdoom",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "1a6a9594"
+},
+{
+"name": "Radio Caprice - Doom Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Radio Caprice: doom metal",
+"url": "http://79.111.14.76:8004/doom",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "9d809827"
+},
+{
+"name": "Radio Caprice - Drone Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Radio Caprice: drone metal",
+"url": "http://79.120.39.202:8004/dronemetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "3c6e3b35"
+},
+{
+"name": "Radio Caprice - Dark Metal",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Radio Caprice: dark metal",
+"url": "http://79.111.119.111:8004/darkmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "4158a144"
+},
+{
+"name": "Radio Caprice - Avantgarde Black Metal",
+"group": "Avant-garde & Ambient Black",
+"about": "Radio Caprice: avantgarde black metal",
+"url": "http://79.120.39.202:8004/avantblackmet",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "251f2032"
+},
+{
+"name": "Radio Caprice - Avant-Garde Metal",
+"group": "Avant-garde & Ambient Black",
+"about": "Radio Caprice: avant garde metal",
+"url": "http://79.111.14.76:8004/avantgardemetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "e6d882a6"
+},
+{
+"name": "Radio Caprice - Post Metal",
+"group": "Avant-garde & Ambient Black",
+"about": "Radio Caprice: post metal",
+"url": "http://79.120.39.202:8000/postmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "84ab67e4"
+},
+{
+"name": "Radio Caprice - Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: death metal",
+"url": "http://79.120.77.11:9083/",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "8382f410"
+},
+{
+"name": "Radio Caprice - Brutal Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: brutal death metal",
+"url": "http://79.111.119.111:8000/brutaldeathmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "bf088b81"
+},
+{
+"name": "Radio Caprice - Melodic Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: melodic death metal",
+"url": "http://79.120.77.11:8000/melodicdeath",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "32f69d3e"
+},
+{
+"name": "Radio Caprice - Technical Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: technical death metal",
+"url": "http://79.120.77.11:9095/;",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "9aa1672a"
+},
+{
+"name": "Radio Caprice - Progressive Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: progressive death metal",
+"url": "http://79.111.119.111:8004/progdeath",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "51d626f5"
+},
+{
+"name": "Radio Caprice - Symphonic Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: symphonic death metal",
+"url": "http://213.141.131.10:8000/symphodeath",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "a8695238"
+},
+{
+"name": "Radio Caprice - Deathcore",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: deathcore",
+"url": "http://79.111.14.76:9053/",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "b940ce17"
+},
+{
+"name": "Radio Caprice - Folk Death Metal",
+"group": "Death Metal Neighbours",
+"about": "Radio Caprice: folk death metal",
+"url": "http://79.120.12.130:8000/folkdeathmet",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "42f10676"
+},
+{
+"name": "Radio Caprice - Heavy Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: heavy metal",
+"url": "http://79.111.14.76:8000/heavymetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "052fdf37"
+},
+{
+"name": "Radio Caprice - Thrash Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: thrash metal",
+"url": "http://79.120.77.11:8000/thrashmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "5d7eeb1c"
+},
+{
+"name": "Radio Caprice - Speed Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: speed metal",
+"url": "http://79.111.119.111:9107/;",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "ff91b864"
+},
+{
+"name": "Radio Caprice - Speed Heavy",
+"group": "Metal Mix",
+"about": "Radio Caprice: speed heavy",
+"url": "http://213.141.131.10:8002/speedheavy",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "787e6eb7"
+},
+{
+"name": "Radio Caprice - Power Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: power metal",
+"url": "http://79.120.77.11:9099/",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "461d92e2"
+},
+{
+"name": "Radio Caprice - Heavy Power Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: heavy power metal",
+"url": "http://79.120.12.130:8002/heavypowermetal",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "f40bb7bd"
+},
+{
+"name": "Radio Caprice - Melodic Power Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: melodic power metal",
+"url": "http://79.111.119.111:8000/melodicpower",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "8f6e7d98"
+},
+{
+"name": "Radio Caprice - Symphonic Power Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: symphonic power metal",
+"url": "http://213.141.131.10:8000/symphopower",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "880409aa"
+},
+{
+"name": "Radio Caprice - Progressive Power Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: progressive power metal",
+"url": "http://79.111.119.111:8004/progpowermetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "11fbd90f"
+},
+{
+"name": "Radio Caprice - Epic Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: epic metal",
+"url": "http://79.111.119.111:8000/epicmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "e05787cc"
+},
+{
+"name": "Radio Caprice - Sludge Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: sludge metal",
+"url": "http://79.120.77.11:8002/sludgemetal",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "c0ed73a6"
+},
+{
+"name": "Radio Caprice - Stoner Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: stoner metal",
+"url": "http://79.120.77.11:9089/",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "93d23cdd"
+},
+{
+"name": "Radio Caprice - Groove Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: groove metal",
+"url": "http://79.120.39.202:8000/groovemetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "89f00a25"
+},
+{
+"name": "Radio Caprice - Gothic Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: gothic metal",
+"url": "http://79.120.77.11:9037/;",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "a66ec2ab"
+},
+{
+"name": "Radio Caprice - Symphonic Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: symphonic metal",
+"url": "http://79.120.77.11:9097/;",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "a2fc8aa1"
+},
+{
+"name": "Radio Caprice - Symphonic Gothic Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: symphonic gothic metal",
+"url": "http://213.141.131.10:8002/symphogoth",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "d7ce08fb"
+},
+{
+"name": "Radio Caprice - Progressive Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: progressive metal",
+"url": "http://79.120.77.11:8000/progmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "787e4c67"
+},
+{
+"name": "Radio Caprice - Melodic Heavy Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: melodic heavy metal",
+"url": "http://79.111.119.111:8000/melodicheavy",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "46957a22"
+},
+{
+"name": "Radio Caprice - Thrash Heavy Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: thrash heavy metal",
+"url": "http://213.141.131.10:8004/thrashheavy",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "3f569915"
+},
+{
+"name": "Radio Caprice - Crossover Thrash Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: crossover thrash metal",
+"url": "http://213.141.131.10:8004/crossoverthrash",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "5b04da94"
+},
+{
+"name": "Radio Caprice - NWOBHM (New Wave of British Heavy Metal)",
+"group": "Metal Mix",
+"about": "Radio Caprice: nwobhm (new wave of british heavy metal)",
+"url": "http://79.120.12.130:8002/nwobhm",
+"type": "audio/aac",
+"kbps": 48,
+"insecure": true,
+"id": "15cc7d21"
+},
+{
+"name": "Radio Caprice - Neoclassical Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: neoclassical metal",
+"url": "http://79.111.119.111:9033/;",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "6f242da8"
+},
+{
+"name": "Radio Caprice - Oriental Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: oriental metal",
+"url": "http://79.111.119.111:8000/orientalmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "e62d1005"
+},
+{
+"name": "Radio Caprice - Female Vocal in Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: female vocal in metal",
+"url": "http://79.111.14.76:8004/femalemetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "6670efc7"
+},
+{
+"name": "Radio Caprice - Instrumental Metal",
+"group": "Metal Mix",
+"about": "Radio Caprice: instrumental metal",
+"url": "http://79.111.119.111:8004/instrumentalmetal",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "95302436"
+},
+{
+"name": "Radio Caprice - Neue Deutsche Härte",
+"group": "Metal Mix",
+"about": "Radio Caprice: neue deutsche härte",
+"url": "http://213.141.131.10:8000/ndh",
+"type": "audio/aac",
+"kbps": 320,
+"insecure": true,
+"id": "314c69df"
 }
 ]
