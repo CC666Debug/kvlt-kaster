@@ -1441,5 +1441,42 @@
 "url": "http://79.120.12.130:8002/folkblackmet",
 "type": "audio/aac",
 "insecure": true
+},
+{
+"name": "Exclusive Radio - Black Sabbath",
+"group": "Metal Mix",
+"about": "Black Sabbath, around the clock",
+"url": "https://streaming.exclusive.radio/er/blacksabbath/icecast.audio",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "4cd4d45f"
+},
+{
+"name": "Metalourgio Radio",
+"group": "Extreme Metal Mixes (lots of black metal)",
+"about": "Greek metal webzine radio: black, death, doom and thrash",
+"url": "http://cast.metalourgio.com:8427/stream192",
+"type": "audio/mpeg",
+"kbps": 192,
+"insecure": true,
+"id": "a7c490a2"
+},
+{
+"name": "Best of Rock FM - Rammstein",
+"group": "Metal Mix",
+"about": "Rammstein and Neue Deutsche Härte, around the clock",
+"url": "https://bestofrockfm.stream.vip/rammstein/mp3-256/",
+"type": "audio/mpeg",
+"kbps": 256,
+"id": "13022778"
+},
+{
+"name": "Wacken Radio",
+"group": "Metal Mix",
+"about": "Wacken Open Air festival radio: heavy, thrash and extreme metal",
+"url": "https://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "2b0711c1"
 }
 ]
