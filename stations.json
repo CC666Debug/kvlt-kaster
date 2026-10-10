@@ -1938,5 +1938,14 @@
 "kbps": 320,
 "insecure": true,
 "id": "314c69df"
+},
+{
+"name": "Desde Las Tinieblas Radio",
+"group": "Metal Mix",
+"about": "Metal from Spain",
+"url": "https://stream.zeno.fm/fumcys21ag0uv",
+"type": "audio/mpeg",
+"kbps": 128,
+"id": "6b8bf83a"
 }
 ]
