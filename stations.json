@@ -1947,5 +1947,22 @@
 "type": "audio/mpeg",
 "kbps": 128,
 "id": "6b8bf83a"
+},
+{
+"name": "Hedgehog Radio",
+"group": "Blackened Doom, Funeral & Dark",
+"about": "Doom, gothic and atmospheric metal and darkwave",
+"url": "https://stream.hedgehogradio.com/radio.mp3",
+"type": "audio/mpeg",
+"id": "cc1a7a08"
+},
+{
+"name": "kobold.FM",
+"group": "Avant-garde & Ambient Black",
+"about": "Dungeon synth and dark ambient",
+"url": "https://kobold.messy.quest/listen/kobold.fm/radio.mp3",
+"type": "audio/mpeg",
+"kbps": 192,
+"id": "83a8ad80"
 }
 ]
