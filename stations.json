@@ -358,19 +358,6 @@
 "id": "48c234b1"
 },
 {
-"name": "Deathmetal (Flatlines)",
-"group": "Death Metal Neighbours",
-"about": "Death metal",
-"url": "https://deathmetal.stream.laut.fm/deathmetal?t302=2026-10-01_01-03-24&uuid=4547f08b-d941-9893-6e28-daf0985ac0be",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "deathmetal"
-},
-"id": "0c102a40"
-},
-{
 "name": "# 100 GREATEST HEAVY METAL",
 "group": "Metal Mix",
 "about": "60'S, 60S, 70'S, 70Er, 70S",
@@ -400,19 +387,6 @@
 "id": "4400-ironcity"
 },
 "id": "aea7249f"
-},
-{
-"name": "Abyss",
-"group": "Metal Mix",
-"about": "Metal, Gothic, EBM, Darkwave, Black Metal",
-"url": "https://abyss.stream.laut.fm/abyss?t302=2026-10-01_01-03-21&uuid=cb0b29de-407f-4665-6512-74667da282d3",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "abyss"
-},
-"id": "f658cb76"
 },
 {
 "name": "AI Melodic Death Metal Radio Station",
@@ -598,19 +572,6 @@
 "id": "destroyed"
 },
 "id": "aefbd059"
-},
-{
-"name": "Diabolicmetalbox",
-"group": "Metal Mix",
-"about": "Rock, Metal, Thrash Metal, Death Metal, Black Metal",
-"url": "https://diabolicmetalbox.stream.laut.fm/diabolicmetalbox?t302=2026-10-01_01-03-22&uuid=45454ebd-3f34-0b10-72e6-3bfea7425b47",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "diabolicmetalbox"
-},
-"id": "9df710cd"
 },
 {
 "name": "Durchgehört",
@@ -1865,6 +1826,43 @@
 "kbps": 320,
 "insecure": true,
 "id": "314c69df"
+},
+{
+"id": "742c6419",
+"name": "Dark Metal-Radio",
+"group": "Metal Mix",
+"url": "https://stream.laut.fm/dark-metal-radio",
+"type": "audio/mpeg",
+"meta": {
+"k": "laut",
+"id": "dark-metal-radio"
+}
+},
+{
+"name": "Mittelalterserver",
+"group": "Metal Mix",
+"about": "Medieval and folk-rock",
+"url": "https://stream.laut.fm/mittelalterserver",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "mittelalterserver"
+},
+"id": "3d2f17e8"
+},
+{
+"name": "Deathmetal (Flatlines)",
+"group": "Metal Mix",
+"about": "Death metal",
+"url": "https://deathmetal.stream.laut.fm/deathmetal?t302=2026-10-01_01-03-24&uuid=4547f08b-d941-9893-6e28-daf0985ac0be",
+"type": "audio/mpeg",
+"kbps": 128,
+"meta": {
+"k": "laut",
+"id": "deathmetal"
+},
+"id": "0c102a40"
 },
 {
 "name": "Hedgehog Radio",
