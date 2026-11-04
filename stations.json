@@ -424,19 +424,6 @@
 "id": "be64885c"
 },
 {
-"name": "Audimaxx",
-"group": "Metal Mix",
-"about": "Alternative, Black Metal, Death Metal, Easy Listening, Heavy Metal",
-"url": "https://audimaxx.stream.laut.fm/audimaxx?t302=2026-10-01_01-03-22&uuid=7321af88-df34-c0d4-445d-453e15070e53",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "audimaxx"
-},
-"id": "6773c846"
-},
-{
 "name": "Badrock Hard & Heavy",
 "group": "Metal Mix",
 "about": "Death Metal, Heavy Metal, Metal, Punk",
@@ -637,19 +624,6 @@
 "id": "durchgehoert"
 },
 "id": "7910f164"
-},
-{
-"name": "Durst Termine",
-"group": "Metal Mix",
-"about": "Pop-Punk, Punk, Hardcore, Emo, Metal",
-"url": "https://durst-termine.stream.laut.fm/durst-termine?t302=2026-10-01_01-03-25&uuid=fccc25d8-ac7e-d06b-1dc0-93a8dc2f6006",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "durst-termine"
-},
-"id": "178fdc02"
 },
 {
 "name": "Hotmix Metal",
@@ -1062,19 +1036,6 @@
 "id": "677f4eab"
 },
 {
-"name": "Radio M",
-"group": "Metal Mix",
-"about": "Metalcore, Metal, Rock'n'Roll, Rock, Black Metal",
-"url": "https://radio-m.stream.laut.fm/radio-m?t302=2026-10-01_01-03-23&uuid=23d36192-ec3b-7660-7b14-029a2a46e2c6",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "radio-m"
-},
-"id": "ee964aa1"
-},
-{
 "name": "Radio Metalkultur",
 "group": "Metal Mix",
 "about": "Female Fronted Metal, Female Fronted Rock, Death Metal, Black Metal, Heavy Metal",
@@ -1181,32 +1142,6 @@
 "id": "rockradio"
 },
 "id": "384da51c"
-},
-{
-"name": "Rockamringblog-Radio",
-"group": "Metal Mix",
-"about": "Rock, Metal, Metalcore, Punk, Alternative",
-"url": "https://rockamringblogradio.stream.laut.fm/rockamringblogradio?t302=2026-10-01_01-03-24&uuid=c44bd98e-ee29-ab9f-f1cb-c809b3b37abd",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "rockamringblogradio"
-},
-"id": "f3285445"
-},
-{
-"name": "Rocknmetal De",
-"group": "Metal Mix",
-"about": "Heavy Metal, Classic Rock, Gothic, Industrial, Folk",
-"url": "https://rocknmetalde.stream.laut.fm/rocknmetal_de?t302=2026-10-01_01-03-20&uuid=c382ce68-fc0e-da85-a848-268ed7f88de9",
-"type": "audio/mpeg",
-"kbps": 128,
-"meta": {
-"k": "laut",
-"id": "rocknmetal_de"
-},
-"id": "6e8ee7b5"
 },
 {
 "name": "Rockstation",
@@ -1394,14 +1329,6 @@
 "url": "http://79.111.119.111:8002/dsbm",
 "type": "audio/aac",
 "insecure": true
-},
-{
-"id": "88236a59",
-"name": "Almost Hell Radio",
-"group": "Pure Black Metal",
-"about": "Black metal",
-"url": "https://almosthellradio.duckdns.org/listen/almost_hell_radio/radio.mp3",
-"type": "audio/mpeg"
 },
 {
 "id": "d3f10e3f",
@@ -1938,15 +1865,6 @@
 "kbps": 320,
 "insecure": true,
 "id": "314c69df"
-},
-{
-"name": "Desde Las Tinieblas Radio",
-"group": "Metal Mix",
-"about": "Metal from Spain",
-"url": "https://stream.zeno.fm/fumcys21ag0uv",
-"type": "audio/mpeg",
-"kbps": 128,
-"id": "6b8bf83a"
 },
 {
 "name": "Hedgehog Radio",
