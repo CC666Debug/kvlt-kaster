@@ -1880,5 +1880,13 @@
 "type": "audio/mpeg",
 "kbps": 192,
 "id": "83a8ad80"
+},
+{
+"id": "b72e10c5",
+"name": "Radio Caprice - Atmospheric/Ambient Black Metal",
+"group": "Avant-garde & Ambient Black",
+"url": "http://79.120.39.202:8002/aabmds",
+"type": "audio/aac",
+"insecure": true
 }
 ]
